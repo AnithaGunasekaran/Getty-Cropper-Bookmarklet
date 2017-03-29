@@ -1,0 +1,23 @@
+{
+  "name": "bookmarkleter",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {},
+  "main": "ndex.js",
+  "files": [
+    "index.js"
+  ],
+  "tags": [],
+  "dependencies": {
+    "async": "^1.5.0",
+    "browser-sync": "^2.18.8",
+    "cheerio": "^0.19.0",
+    "gulp-bookmarkleter": "https://github.com/williamparry/gulp-bookmarkleter.git",
+    "gulp-dom": "^0.9.17",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {}
+}
